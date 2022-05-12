@@ -3,7 +3,7 @@ dkjajfd dfjakjfk dsa fjkdsa
 
 ## Hình ảnh
 
-[dog](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.baamboozle.com%2Fstudy%2F148572&psig=AOvVaw3aMzqKDuGB5Kxg_uYQstDt&ust=1652416928740000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLCx8fKS2fcCFQAAAAAdAAAAABAD)
+![dog](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.baamboozle.com%2Fstudy%2F148572&psig=AOvVaw3aMzqKDuGB5Kxg_uYQstDt&ust=1652416928740000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLCx8fKS2fcCFQAAAAAdAAAAABAD)
 
 ### code
 
@@ -22,9 +22,10 @@ for layer in pre_trained_model.layers:
 
 #get final layer shape 
 last_layer = pre_trained_model.get_layer('mixed7')
-output_shape = last_layer.output```
+output_shape = last_layer.output
+```
 
-#### list
+### list
 - dsfsd
 - dsfd
 - fdsf
